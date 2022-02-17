@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Kumar [@rahuldevwishlist]
 - 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently learing about Angular IVY complier.  
-- 💞️ I’m looking to collaborate on Angular 11
+- 💞️ I’m looking to collaborate on Angular 13
 - 📫 Email Me : rahul@enjoywishlist.com
 
 <!---
